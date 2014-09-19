@@ -1,0 +1,1 @@
+CALL pyuic5 ui_attribute_exploration.ui -o ui_attribute_exploration.py
